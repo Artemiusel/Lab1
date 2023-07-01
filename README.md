@@ -24,3 +24,9 @@ header.header>(nav.header__nav.nav>ul.nav__list>(li.nav__item>a.nav__link)*3)+.h
 form.form>h2.form__title+input.form__input*2+button.form__submit
 
 ![Alt text](pic/Screenshot_2.png)
+
+### card
+
+li.card>h3.card__title+p.card__subtitle+div.card__grid-big>img.card__img.card__img--big+p.card__text+.card__grid-small>img.card__img.card__img--small*4
+
+![Alt text](pic/Screenshot_3.png)
