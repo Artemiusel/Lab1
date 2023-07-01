@@ -9,3 +9,6 @@ body__abs--amount_six
 legs
 legs--position_left
 legs__knees
+
+
+## Задание 2
