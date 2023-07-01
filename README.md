@@ -12,3 +12,9 @@ legs__knees
 
 
 ## Задание 2
+### header
+
+header.header>(nav.header__nav.nav>ul.nav__list>(li.nav__item>a.nav__link)*3)+.header__phone.phone>img.phone__img+a.phone__number
+
+![alt text](pic/Screenshot_1.png)
+
