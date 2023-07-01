@@ -18,3 +18,9 @@ header.header>(nav.header__nav.nav>ul.nav__list>(li.nav__item>a.nav__link)*3)+.h
 
 ![alt text](pic/Screenshot_1.png)
 
+
+### form 
+
+form.form>h2.form__title+input.form__input*2+button.form__submit
+
+![Alt text](pic/Screenshot_2.png)
