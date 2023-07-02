@@ -1,14 +1,15 @@
 # Бэм
 ## Задание 1
-head
-head__ear
-head__ear--size_big
-body
-body__abs
-body__abs--amount_six
-legs
-legs--position_left
-legs__knees
+human 
+human__head
+head__head--size_big
+human
+human__body
+human__body--rangy
+human
+human__legs
+human__legs--long
+
 
 
 ## Задание 2
